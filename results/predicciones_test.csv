@@ -1,0 +1,201 @@
+id,mensaje,intencion,pred_sin_ajuste,confianza_sin_ajuste,pred_con_fine_tuning,confianza_con_fine_tuning
+800,see what hours i can reach customer support,contactar_ejecutivo,contactar_ejecutivo,0.4355,contactar_ejecutivo,0.9972
+1989,i dont know what i have to do to switch to the {{Account Type}} acfcount,otro,otro,0.4139,otro,0.9966
+751,opneing new {{Account Category}} account for daughter,otro,queja,0.4099,otro,0.9924
+523,want help to file a consumer claim against your organization,queja,queja,0.9306,queja,0.9982
+1229,how to see the current status of order {{Order Number}}?,estatus_orden,estatus_orden,0.8789,estatus_orden,0.9978
+313,could you help me set up the new shipping address?,otro,estatus_orden,0.4105,otro,0.9972
+1544,i try to check how soon can i expect the product,fecha_entrega,estatus_orden,0.4172,fecha_entrega,0.9976
+1455,icall to file a complaint against ur company,queja,queja,0.9878,queja,0.9982
+1326,I do not know what I need to do to change to the {{Account Type}} account,otro,otro,0.457,otro,0.9962
+1361,"I forgot my user account access key, help me recover it",otro,queja,0.2815,otro,0.997
+112,how could I check your money back policy?,otro,queja,0.3654,otro,0.9973
+721,I do not know how to chat with an assistant,contactar_ejecutivo,otro,0.3847,contactar_ejecutivo,0.9972
+1202,is it possible to see when my product is going to arrive?,fecha_entrega,estatus_orden,0.4592,fecha_entrega,0.9976
+1374,I want somebody,contactar_ejecutivo,queja,0.3,contactar_ejecutivo,0.9894
+444,"I want to check order {{Order Number}} current status, help me",estatus_orden,estatus_orden,0.944,estatus_orden,0.9977
+1999,where do I restore my user pass?,otro,queja,0.3126,otro,0.9971
+395,checking current status of purchase {{Order Number}},estatus_orden,estatus_orden,0.953,estatus_orden,0.9978
+1654,I have got to file a reclamation,queja,queja,0.7897,queja,0.9982
+562,need assistance lodging a reclamation against your company,queja,queja,0.8192,queja,0.9982
+1421,I want help checking how soon can I expect the delivery,fecha_entrega,estatus_orden,0.6982,fecha_entrega,0.9975
+1027,help making a consumer claim against your organization,queja,queja,0.9084,queja,0.9982
+1291,is it possible to make a complaint against your company?,queja,queja,0.5106,queja,0.9983
+621,where to file a consumer complaint,queja,queja,0.8458,queja,0.9981
+600,I want to know more about the shipping period,fecha_entrega,estatus_orden,0.4384,fecha_entrega,0.9976
+1082,assistance to see how soon can I expect my shipment,fecha_entrega,estatus_orden,0.6858,fecha_entrega,0.9976
+1746,I want help filing a consumer reclamation,queja,queja,0.7801,queja,0.9983
+1360,I can't talk with an assistant,contactar_ejecutivo,otro,0.3952,contactar_ejecutivo,0.9972
+953,"I want to submit my feedback for your products, help me",otro,queja,0.3414,otro,0.9969
+1975,I can't see if there is anything new on the compensation,otro,otro,0.3514,otro,0.9853
+604,I don't know how I could change to the premium account,otro,otro,0.3965,otro,0.997
+590,I don't know what to do to contact a live agent,contactar_ejecutivo,otro,0.379,contactar_ejecutivo,0.9973
+37,i have got to file a customer claim,queja,queja,0.9224,queja,0.9981
+733,I'm trying to speak to a person,contactar_ejecutivo,queja,0.408,contactar_ejecutivo,0.9973
+903,can uhelpp me filing a reclamation against ur business,queja,queja,0.8542,queja,0.9983
+1914,I'm dissatisfied with ur services help to file a reclamation,queja,queja,0.8556,queja,0.9982
+1074,I need to file a customer complaint against your company,queja,queja,0.9571,queja,0.9981
+97,see current status of order {{Order Number}},estatus_orden,estatus_orden,0.9185,estatus_orden,0.9977
+1205,can I talk to a person?,contactar_ejecutivo,otro,0.5255,contactar_ejecutivo,0.9971
+1874,want assistance checking ohw soon can i expect my parcel,fecha_entrega,estatus_orden,0.6121,fecha_entrega,0.9976
+1536,I want assistance to check when will my purchase arrive,fecha_entrega,estatus_orden,0.7555,fecha_entrega,0.9976
+897,i cant see the status of order {{Order Number}},estatus_orden,otro,0.3331,estatus_orden,0.9977
+1717,I want assistance deleting my standard account,otro,queja,0.5959,otro,0.9971
+673,"I want to see how soon can I expect my damn order, help me",fecha_entrega,estatus_orden,0.429,fecha_entrega,0.9976
+200,I need assistance canceling a {{Account Type}} account,otro,queja,0.4501,otro,0.9965
+1062,file complaint against your business,queja,queja,0.9574,queja,0.9981
+1438,I odn't know how I could speak to customer support,contactar_ejecutivo,contactar_ejecutivo,0.6258,contactar_ejecutivo,0.9973
+461,I don't know how I can talk with customer support,contactar_ejecutivo,contactar_ejecutivo,0.565,contactar_ejecutivo,0.9972
+26,i want assistance to get in touch with customer service,contactar_ejecutivo,contactar_ejecutivo,0.534,contactar_ejecutivo,0.9973
+1075,i do not know how to speak with sommeone,contactar_ejecutivo,otro,0.4644,contactar_ejecutivo,0.9972
+229,"I am unhappy with your service, help me to make a claim",queja,queja,0.9078,queja,0.9981
+4,where do i check how long it takes for my shipment to arrive,fecha_entrega,fecha_entrega,0.5251,fecha_entrega,0.9976
+918,I don't know how I can check your refund policy,otro,estatus_orden,0.2737,otro,0.9972
+168,I have got to check what payment methods are available,otro,estatus_orden,0.3374,otro,0.9968
+1560,i have got to contact customer support how can i do it,contactar_ejecutivo,contactar_ejecutivo,0.828,contactar_ejecutivo,0.9972
+916,I can't check the ETA of the purchase {{Order Number}},estatus_orden,estatus_orden,0.5107,estatus_orden,0.9978
+753,how can I file a customer complaint against your company?,queja,queja,0.7399,queja,0.9982
+787,I try to track order {{Order Number}},estatus_orden,estatus_orden,0.8921,estatus_orden,0.9978
+998,how do i see purchase {{Order Number}} status,estatus_orden,estatus_orden,0.8984,estatus_orden,0.9978
+1465,wann locate order {{Order Number}},estatus_orden,estatus_orden,0.6933,estatus_orden,0.9978
+1243,could I restore the access key of my profile?,otro,queja,0.3125,otro,0.9969
+1293,where can I check how soon can I expect the item?,fecha_entrega,estatus_orden,0.4328,fecha_entrega,0.9976
+1180,how long does it take for a damn article to arrive?,fecha_entrega,fecha_entrega,0.75,fecha_entrega,0.9973
+1314,want help to see the eta of purchase {{Order Number}},estatus_orden,estatus_orden,0.8869,estatus_orden,0.9978
+1083,I want help speaking with an operator,contactar_ejecutivo,contactar_ejecutivo,0.7336,contactar_ejecutivo,0.9973
+250,i purchased something how to cancel order {{Order Number}},otro,estatus_orden,0.456,otro,0.9969
+679,I want to see how long it takes for my product to arrive,fecha_entrega,fecha_entrega,0.7986,fecha_entrega,0.9975
+256,I need to see how long it takes for my parcel to arrive,fecha_entrega,fecha_entrega,0.7189,fecha_entrega,0.9975
+912,"I ain't happy with your work, I need to make a claim",queja,queja,0.9503,queja,0.9981
+1216,how to see the status of order {{Order Number}},estatus_orden,estatus_orden,0.8704,estatus_orden,0.9977
+1228,can you help me to see how long the delivery takes?,fecha_entrega,estatus_orden,0.7246,fecha_entrega,0.9976
+254,need assistance checking order {{Order Number}} current status,estatus_orden,estatus_orden,0.9487,estatus_orden,0.9977
+576,help me check how soon can I expect my delivery,fecha_entrega,estatus_orden,0.6534,fecha_entrega,0.9975
+1499,can you help me speak to a live agent?,contactar_ejecutivo,contactar_ejecutivo,0.3904,contactar_ejecutivo,0.9973
+1684,could you help me file a customer reclamation?,queja,queja,0.7122,queja,0.9982
+151,need to make a complaint,queja,queja,0.9726,queja,0.9981
+1120,"you aren't helpful at all, help me speaking to a person",contactar_ejecutivo,otro,0.3953,contactar_ejecutivo,0.9971
+1187,I don't know how to check when my aprcel is going to arrive,fecha_entrega,queja,0.4752,fecha_entrega,0.9977
+1517,assistance to see the ETA of order {{Order Number}},estatus_orden,estatus_orden,0.8701,estatus_orden,0.9977
+904,where can i check what hours i can contact customer service,contactar_ejecutivo,estatus_orden,0.3642,contactar_ejecutivo,0.9972
+701,"I need to make a damn consumer complaint, how could I do it?",queja,queja,0.9371,queja,0.9979
+778,I have got to recover my user pwd,otro,queja,0.4986,otro,0.9972
+19,I want help to make a complaint against your organization,queja,queja,0.9787,queja,0.9982
+567,i try to lodge a cliam,queja,queja,0.9289,queja,0.5322
+27,"I have to see when my item is going to arrive, help me",fecha_entrega,estatus_orden,0.6694,fecha_entrega,0.9976
+1545,i dont know what to do to chat with a fucking assistant,contactar_ejecutivo,contactar_ejecutivo,0.4696,contactar_ejecutivo,0.9972
+124,see order {{Order Number}} cuurrent status,estatus_orden,estatus_orden,0.9179,estatus_orden,0.9976
+25,assistance filing a complaint against your organization,queja,queja,0.9606,queja,0.9982
+277,where do I check my last purchase estimated time of arrival?,estatus_orden,estatus_orden,0.5586,estatus_orden,0.9447
+1778,assistance ordering some of your article,otro,estatus_orden,0.3998,otro,0.9967
+1802,can uhelp me checking the eta of order {{Order Number}},estatus_orden,estatus_orden,0.9219,estatus_orden,0.9978
+104,I need to see in what cases can I ask for a reimbursement,otro,otro,0.459,otro,0.9971
+1212,need assistance to file a consumer cclaim,queja,queja,0.91,queja,0.9982
+1979,I want assistance seeing the withdrawal fee,otro,estatus_orden,0.6291,otro,0.9971
+1733,i try to track purchase {{Order Number}},estatus_orden,estatus_orden,0.8807,estatus_orden,0.9978
+1144,I need to see what hours I can contact customer service,contactar_ejecutivo,contactar_ejecutivo,0.3014,contactar_ejecutivo,0.9972
+1550,I need help locatin purchase {{Order Number}},estatus_orden,estatus_orden,0.8025,estatus_orden,0.9978
+189,i need help checking when my package is gonna arrive,fecha_entrega,estatus_orden,0.6848,fecha_entrega,0.9976
+1381,need assistance to see the eta of purcase {{Order Number}},estatus_orden,estatus_orden,0.8101,estatus_orden,0.9978
+1435,assistance to talk to an assistant,contactar_ejecutivo,otro,0.3547,contactar_ejecutivo,0.9971
+694,I try to see how soon can I expect my fucking package,fecha_entrega,estatus_orden,0.3388,fecha_entrega,0.9976
+259,I am calling to file a complaint against your organization,queja,queja,0.9924,queja,0.9981
+1273,"I have to see order {{Order Number}} current status, help me",estatus_orden,estatus_orden,0.9471,estatus_orden,0.9977
+223,need assistance to see the status of purchase {{Order Number}},estatus_orden,estatus_orden,0.922,estatus_orden,0.9978
+1863,can you hsow me how long it takes for the article to arrive?,fecha_entrega,fecha_entrega,0.7071,fecha_entrega,0.9976
+476,where to check the current status of order {{Order Number}}?,estatus_orden,estatus_orden,0.9056,estatus_orden,0.9978
+397,i dont know how to switch to the {{Account Category}} account,otro,otro,0.4288,otro,0.9968
+1828,I'm very unhappyt with ur service i need to file a complaint,queja,queja,0.963,queja,0.9982
+39,how to check how soon can I expect my item?,fecha_entrega,estatus_orden,0.4988,fecha_entrega,0.9976
+22,i try to make a bloody consumer complaint against ur company,queja,queja,0.9519,queja,0.9982
+1581,where do i see the status of purchase {{Order Number}},estatus_orden,estatus_orden,0.9028,estatus_orden,0.9978
+1041,"I have to see how soon can I expect the article, help me",fecha_entrega,fecha_entrega,0.5984,fecha_entrega,0.9976
+431,can you help me checking purchase {{Order Number}} status?,estatus_orden,estatus_orden,0.8767,estatus_orden,0.9978
+1873,need assistance seeing when will my parcel arrive,fecha_entrega,estatus_orden,0.704,fecha_entrega,0.9976
+655,I don't know how to buy some of your item,otro,otro,0.3393,otro,0.9969
+401,"I need to see when my order is going to arrive, help me",fecha_entrega,estatus_orden,0.8057,fecha_entrega,0.9977
+1980,can you help me to lodge a customer reclamation?,queja,queja,0.6871,queja,0.9982
+611,I want help to see how soon can I expect my product,fecha_entrega,estatus_orden,0.5018,fecha_entrega,0.9975
+276,I need assistance to lodge a fucking consumer reclamation,queja,queja,0.7961,queja,0.9982
+859,help me to speak with customer assistance,contactar_ejecutivo,contactar_ejecutivo,0.6754,contactar_ejecutivo,0.9972
+1527,assistance to see purchase {{Order Number}} status,estatus_orden,estatus_orden,0.9285,estatus_orden,0.9978
+1570,I'm trying to find the deliveey periods,fecha_entrega,fecha_entrega,0.432,fecha_entrega,0.9972
+713,can you help me checking when will my parcel arrive?,fecha_entrega,estatus_orden,0.632,fecha_entrega,0.9976
+81,help me see at what time customer support available is,contactar_ejecutivo,estatus_orden,0.3544,contactar_ejecutivo,0.9971
+169,need help to see at what time customer service availabl is,contactar_ejecutivo,estatus_orden,0.3909,contactar_ejecutivo,0.9971
+1046,"I haven't signed up yet, help me to create a pro account",otro,otro,0.392,otro,0.9937
+70,check cancellation charges,otro,estatus_orden,0.3494,otro,0.9969
+261,i dont know how to speak with customer service,contactar_ejecutivo,otro,0.3763,contactar_ejecutivo,0.9972
+255,can you show me what payment options you accept?,otro,otro,0.4162,otro,0.9963
+1532,i have to see the goddamn ETA of purchase {{Order Number}},estatus_orden,estatus_orden,0.8418,estatus_orden,0.9978
+1138,want helpo talking to customer assistance,contactar_ejecutivo,contactar_ejecutivo,0.6715,contactar_ejecutivo,0.9972
+1891,"I would like to make a bloody complaint, could you help me?",queja,queja,0.9306,queja,0.9981
+257,checking status of order,estatus_orden,estatus_orden,0.8937,estatus_orden,0.9977
+1263,I need information about the removal of a gold account,otro,queja,0.4325,otro,0.9969
+762,can you help me see the current status of order {{Order Number}}?,estatus_orden,estatus_orden,0.8912,estatus_orden,0.9978
+564,how could I see order {{Order Number}} status?,estatus_orden,estatus_orden,0.8737,estatus_orden,0.9978
+541,I need help to talk to custmoer service,contactar_ejecutivo,contactar_ejecutivo,0.5087,contactar_ejecutivo,0.9972
+1375,I want assistanc to see when my purchase is going to arrive,fecha_entrega,estatus_orden,0.7841,fecha_entrega,0.9976
+1109,is it possible to contactr a person,contactar_ejecutivo,otro,0.5204,contactar_ejecutivo,0.9972
+1932,contacting agent,contactar_ejecutivo,contactar_ejecutivo,0.4369,contactar_ejecutivo,0.9962
+17,wanna chec order {{Order Number}} status,estatus_orden,estatus_orden,0.7879,estatus_orden,0.9978
+1623,i do not know how i can see how soon can i expect my delivry,fecha_entrega,queja,0.4176,fecha_entrega,0.9976
+1977,how do i cyat with a person,contactar_ejecutivo,queja,0.4642,contactar_ejecutivo,0.9955
+1346,what do I have to do to see the status of purchase {{Order Number}}?,estatus_orden,estatus_orden,0.9063,estatus_orden,0.9978
+1578,i need assistance filing a consumer claim against ur company,queja,queja,0.9193,queja,0.9982
+1452,"I am trying to find the shipping period, I need help",fecha_entrega,estatus_orden,0.5035,fecha_entrega,0.9976
+845,I want help checking when my delivery is going to arrive,fecha_entrega,estatus_orden,0.7237,fecha_entrega,0.9976
+45,I want assistance to download my bill #85632,otro,estatus_orden,0.5336,otro,0.9971
+728,how can I see how soon can I expect the product?,fecha_entrega,estatus_orden,0.4152,fecha_entrega,0.9975
+1758,I want help to purchase some items,otro,contactar_ejecutivo,0.3367,otro,0.9969
+1214,how can i speakto customer assistance,contactar_ejecutivo,contactar_ejecutivo,0.7258,contactar_ejecutivo,0.9972
+1572,I am calling to lodge a customer claim,queja,queja,0.9541,queja,0.998
+1788,is it possible to check how long the shipment takes?,fecha_entrega,estatus_orden,0.5602,fecha_entrega,0.9976
+1,i want assistance filing a complaint against ur business,queja,queja,0.9585,queja,0.9983
+536,I have to lodge a consumer complaint against your company,queja,queja,0.9495,queja,0.9981
+807,how to contact a human agent?,contactar_ejecutivo,otro,0.3917,contactar_ejecutivo,0.9972
+923,i dont know how i can see the eta of the order {{Order Number}},estatus_orden,estatus_orden,0.8498,estatus_orden,0.9978
+1858,how do I make a complaint against your business?,queja,queja,0.7761,queja,0.9982
+9,"I have to call customer service, could you help me?",contactar_ejecutivo,contactar_ejecutivo,0.5879,contactar_ejecutivo,0.9973
+1650,help seeing how soon can I expect my product,fecha_entrega,estatus_orden,0.6637,fecha_entrega,0.9975
+664,need help to chat with a prson,contactar_ejecutivo,contactar_ejecutivo,0.584,contactar_ejecutivo,0.9973
+244,wanna know about delivery periods give me some informtion,fecha_entrega,estatus_orden,0.6102,fecha_entrega,0.9975
+1647,help me see the allowed payment options,otro,estatus_orden,0.4609,otro,0.997
+1720,icannot switch to the bloody standard account,otro,otro,0.3325,otro,0.9971
+310,I want help calling customer support,contactar_ejecutivo,contactar_ejecutivo,0.6281,contactar_ejecutivo,0.9973
+769,I want help to see the ETA of order {{Order Number}},estatus_orden,estatus_orden,0.8874,estatus_orden,0.9978
+820,report registration issues,otro,queja,0.6264,otro,0.9966
+131,can you help me to file a customer reclamation?,queja,queja,0.752,queja,0.9982
+1328,I want help lodging an claim,queja,queja,0.9261,queja,0.9983
+1972,how do I give a quick look at my invoice #00108?,otro,estatus_orden,0.6733,otro,0.9972
+930,help me making a consumer complaint against ur business,queja,queja,0.9225,queja,0.9982
+1175,i want assistance to track order {{Order Number}},estatus_orden,estatus_orden,0.9206,estatus_orden,0.9978
+43,I try to talk to an assistant,contactar_ejecutivo,contactar_ejecutivo,0.4521,contactar_ejecutivo,0.9971
+238,can you show me how long it takes for my shipment to arrive?,fecha_entrega,fecha_entrega,0.7235,fecha_entrega,0.9976
+643,check the eta of the order {{Order Number}},estatus_orden,estatus_orden,0.8838,estatus_orden,0.9976
+1601,i want help talkingh to a live agent,contactar_ejecutivo,contactar_ejecutivo,0.3783,contactar_ejecutivo,0.9973
+1390,"I have got to see when will my item arrive, can you help me?",fecha_entrega,estatus_orden,0.655,fecha_entrega,0.9977
+1583,i have to see how soon can i expect the shipmrnt i need help,fecha_entrega,estatus_orden,0.3849,fecha_entrega,0.9976
+1624,editing details on freemium account,otro,queja,0.3334,otro,0.9972
+201,I want help making a complaint against your company,queja,queja,0.9721,queja,0.9982
+1296,can you help me see when my article is goong to arrive?,fecha_entrega,estatus_orden,0.3909,fecha_entrega,0.9976
+843,want help filing a claim,queja,queja,0.9423,queja,0.9983
+462,show me at what time customer assistance available is,contactar_ejecutivo,estatus_orden,0.388,contactar_ejecutivo,0.997
+1456,want assistance to lodge a claimn against ur organization,queja,queja,0.9461,queja,0.9982
+770,is it possible to correct my delivery address?,otro,estatus_orden,0.4143,otro,0.997
+1143,I try to see the fucking restitution current status,otro,estatus_orden,0.4367,otro,0.9921
+623,I need assistance locating order {{Order Number}},estatus_orden,estatus_orden,0.8461,estatus_orden,0.9978
+424,need help checking the damn ETA of purchase {{Order Number}},estatus_orden,estatus_orden,0.827,estatus_orden,0.9978
+667,I want to check what hours I can reach customer support,contactar_ejecutivo,contactar_ejecutivo,0.3933,contactar_ejecutivo,0.9972
+494,I have to see the ETA of the order {{Order Number}},estatus_orden,estatus_orden,0.8257,estatus_orden,0.9977
+1184,I don't know how I can request a rebate,otro,otro,0.3454,otro,0.9971
+795,help me check what hours i can call customer service,contactar_ejecutivo,contactar_ejecutivo,0.3121,contactar_ejecutivo,0.9972
+574,editting details on standard account,otro,estatus_orden,0.3358,otro,0.9971
+1126,I need to swap an item of purchase {{Order Number}},otro,estatus_orden,0.5086,otro,0.9969
+1925,I need assistance to talk with an operator,contactar_ejecutivo,contactar_ejecutivo,0.6181,contactar_ejecutivo,0.9973
+1104,download bill #37777,otro,estatus_orden,0.3496,otro,0.9945
+716,need to check the etga of order {{Order Number}} help me,estatus_orden,estatus_orden,0.9263,estatus_orden,0.9978
+1197,how do I see at what time I can call customer support?,contactar_ejecutivo,contactar_ejecutivo,0.4604,contactar_ejecutivo,0.9972
+385,need assistance to submit my feedback for ur services,otro,contactar_ejecutivo,0.3446,otro,0.9972
+1827,could you help me to see how soon can I expect the product?,fecha_entrega,estatus_orden,0.4748,fecha_entrega,0.9976
+1347,showing me estimated time of arrival of order {{Order Number}},estatus_orden,fecha_entrega,0.5422,estatus_orden,0.9976

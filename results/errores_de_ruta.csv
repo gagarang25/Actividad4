@@ -1,0 +1,3 @@
+etapa,mensajes,debian_ir_a_ejecutivo,respondidos_en_automatico_por_error,debian_responderse_en_automatico,enviados_a_ejecutivo_por_error,ruta_correcta
+sin ajuste,200,120,19,80,3,178
+con fine-tuning,200,120,0,80,0,200

@@ -1,0 +1,7 @@
+modelo,etapa,mensajes,respondidos_en_automatico_por_error,enviados_a_ejecutivo_por_error,ruta_correcta
+BART-large (inglés),sin ajuste,200,24,0,176
+mDeBERTa-v3 (multilingüe),sin ajuste,200,20,0,180
+MiniLMv2 (multilingüe),sin ajuste,200,55,2,143
+BART-large (inglés),con fine-tuning,200,0,0,200
+mDeBERTa-v3 (multilingüe),con fine-tuning,200,0,0,200
+MiniLMv2 (multilingüe),con fine-tuning,200,8,0,192

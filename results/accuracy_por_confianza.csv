@@ -1,0 +1,9 @@
+etapa,rango_confianza,mensajes,aciertos,accuracy
+sin ajuste,menor a 0.60,93,32,0.3441
+sin ajuste,0.60 a 0.80,40,22,0.55
+sin ajuste,0.80 a 0.90,26,25,0.9615
+sin ajuste,0.90 o más,41,41,1.0
+con fine-tuning,menor a 0.60,1,1,1.0
+con fine-tuning,0.60 a 0.80,0,0,
+con fine-tuning,0.80 a 0.90,0,0,
+con fine-tuning,0.90 o más,199,199,1.0
